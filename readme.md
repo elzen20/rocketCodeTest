@@ -13,7 +13,7 @@ It requires to create an `appsettings.Development.json` file for making the Data
   }
 }
 
-The .gitignore file also ignores the launchSettings.json and appsettings.json, if you want to test the project locally do not hesitate to contact me through my email ceqc.quintero@gmail.com.and I can share that to you. It does not contains sensible information but I decided to ignore those files in case this is part of the qualification. 
+The .gitignore file also ignores the launchSettings.json and appsettings.json, if you want to test the project locally do not hesitate to contact me through my email ceqc.quintero@gmail.com and I can share that to you. It does not contains sensible information but I decided to ignore those files in case this is part of the qualification. 
 ## Use the followin commands to restore packages and build:
 
 ### `dotnet restore`
