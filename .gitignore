@@ -1,0 +1,28 @@
+# Binarios, paquetes y archivos generados automáticamente
+obj/
+bin/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Archivos de configuración específicos del entorno
+appsettings.Development.json
+launchSettings.json
+appsettings.json
+
+# Visual Studio files
+.vs/
+
+# Rider files
+.idea/
+
+# Otros archivos específicos del entorno o IDE
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de respaldo de editor
+*~
+*.swp
